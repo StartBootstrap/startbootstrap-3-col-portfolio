@@ -12,6 +12,10 @@ body {
     margin-bottom: 30px;
 }
 
+.card {
+	height: 100%;
+}
+
 .pagination {
 	margin-bottom: 30px;
 }
