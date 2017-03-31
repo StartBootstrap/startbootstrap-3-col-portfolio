@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - 3 Col Portfolio (http://startbootstrap.com/)
+ * Start Bootstrap - 3 Col Portfolio v4.0.0-alpha (http://startbootstrap.com/template-overviews/3-col-portfolio)
  * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio/blob/master/LICENSE)
  */
 
 body {
@@ -19,5 +19,5 @@ body {
 }
 
 .pagination {
-	margin-bottom: 30px;
+    margin-bottom: 30px;
 }
