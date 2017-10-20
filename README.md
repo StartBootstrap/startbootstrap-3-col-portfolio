@@ -3,6 +3,7 @@
 [3 Col Portfolio](https://startbootstrap.com/template-overviews/3-col-portfolio/) is a three column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
+
 [![3 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/3-col-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-3-col-portfolio/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-3-col-portfolio/)**
